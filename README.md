@@ -1,2 +1,2 @@
 # GPT2_chatbot
-@gpt2_test_bot
+http://t.me/gpt2_test_bot
